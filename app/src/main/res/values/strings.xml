@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Stalkr</string>
+    <string name="title_activity_maps">Stalkr</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="register">Register</string>
+    <string name="logo_image">logo image</string>
+    <string name="name">name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="password_confirmation">Password confirmation</string>
+    <string name="email_error">Please enter your email</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="error_invalid_password">Password must be at least 8 char, 1 letter, 1 number, 1 special char</string>
+    <string name="password_error">Please enter your password</string>
+    <string name="confirmation_password_error">"Password does not match "</string>
+    <string name="logout">logout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_location_button">myLocationButton</string>
+    <string name="title_activity_main" />
+    <string name="invite">Invite</string>
+    <string name="textview">TextView</string>
+    <string name="view">View</string>
+    <string name="profile_photo_of_user">profile photo of user</string>
+    <string name="bottom_wave_vector">bottom wave vector</string>
+    <string name="top_wave_vector">top wave vector</string>
+    <string name="radius_10m">Radius (10m)</string>
+    <string name="sort">Sort</string>
+    <string name="not_available">NA</string>
+    <string name="stop_notifications">Stop Notifications</string>
+    <string name="compass_image_content_desc">Compass image</string>
+    <string name="direction_angle">Direction angle</string>
+
+    <string-array name="filter_names">
+        <item>Sort by any</item>
+        <item>Sort by radius (1000m)</item>
+    </string-array>
+</resources>
